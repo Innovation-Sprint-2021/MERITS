@@ -1,2 +1,2 @@
 # MERITS
-Machine-readable Repository to Identify Trustworthy Science
+Metaresearch Evaluation Repository to Identify Trustworthy Science
