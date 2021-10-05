@@ -57,6 +57,7 @@ Its contributors are (alphabetical order by surname):
 - Cooper Smout @coopersmout
 - Gabriel Stein
 - Naosuki Sunami
+- Aaron Willcox
 
 ### Licensing
 
