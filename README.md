@@ -38,7 +38,7 @@ Will be updated soon.
 
 We welcome contributions to the project! 
 
-Our Contribution Guidelines are in development and will be updated soon.
+Please see our [Contribution Guidelines](https://github.com/Innovation-Sprint-2021/MERITS/blob/main/CONTRIBUTING.md).
 
 Contributors to the MERITS community should also read our [Code of Conduct](https://github.com/Innovation-Sprint-2021/MERITS/blob/main/CODE_OF_CONDUCT.md).
 
